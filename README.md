@@ -16,7 +16,7 @@ Appétit is an intuitive iOS application designed to help users manage their nut
 - **Core Data**: For data persistence, handling user profiles, food logs, and goals.
 - **JSON**: For simulating data fetching and connecting to various nutrition databases.
 
-Installation 🛠️
+##Installation 🛠️
 
 1. Clone the repository:
    ```bash
