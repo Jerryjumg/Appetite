@@ -1,0 +1,318 @@
+[
+    {
+        "name": "Grilled Chicken Breast",
+        "serving": "100g",
+        "calories": "165",
+        "fat": "3.6g",
+        "fiber": "0g",
+        "carbs": "0g",
+        "protein": "31g"
+    },
+    {
+        "name": "Avocado",
+        "serving": "50g",
+        "calories": "80",
+        "fat": "7.4g",
+        "fiber": "3.4g",
+        "carbs": "4g",
+        "protein": "1g"
+    },
+    {
+        "name": "Quinoa",
+        "serving": "1 cup cooked",
+        "calories": "222",
+        "fat": "3.6g",
+        "fiber": "5.2g",
+        "carbs": "39g",
+        "protein": "8g"
+    },
+    {
+        "name": "Broccoli",
+        "serving": "100g",
+        "calories": "55",
+        "fat": "0.6g",
+        "fiber": "2.6g",
+        "carbs": "11g",
+        "protein": "3.7g"
+    },
+    {
+        "name": "Almond Butter",
+        "serving": "1 tbsp",
+        "calories": "98",
+        "fat": "9g",
+        "fiber": "1.8g",
+        "carbs": "3.4g",
+        "protein": "2.4g"
+    },
+    {
+        "name": "Scrambled Eggs",
+        "serving": "2 large eggs",
+        "calories": "140",
+        "fat": "9.5g",
+        "fiber": "0g",
+        "carbs": "1g",
+        "protein": "12g"
+    },
+    {
+        "name": "Whole Wheat Toast",
+        "serving": "1 slice",
+        "calories": "80",
+        "fat": "1g",
+        "fiber": "2g",
+        "carbs": "14g",
+        "protein": "4g"
+    },
+    {
+        "name": "Greek Yogurt",
+        "serving": "150g",
+        "calories": "100",
+        "fat": "0g",
+        "fiber": "0g",
+        "carbs": "7g",
+        "protein": "10g"
+    },
+    {
+        "name": "Grilled Salmon",
+        "serving": "150g",
+        "calories": "367",
+        "fat": "22g",
+        "fiber": "0g",
+        "carbs": "0g",
+        "protein": "39g"
+    },
+    {
+        "name": "Steamed Asparagus",
+        "serving": "100g",
+        "calories": "20",
+        "fat": "0g",
+        "fiber": "2g",
+        "carbs": "3g",
+        "protein": "2.2g"
+    },
+    {
+        "name": "Brown Rice",
+        "serving": "1 cup cooked",
+        "calories": "216",
+        "fat": "1.8g",
+        "fiber": "3.5g",
+        "carbs": "44g",
+        "protein": "5g"
+    },
+    {
+        "name": "Banana",
+        "serving": "1 medium (118g)",
+        "calories": "105",
+        "fat": "0.3g",
+        "fiber": "3.1g",
+        "carbs": "27g",
+        "protein": "1.3g"
+    },
+    {
+        "name": "Grilled Chicken Salad",
+        "serving": "200g",
+        "calories": "210",
+        "fat": "4g",
+        "fiber": "3g",
+        "carbs": "5g",
+        "protein": "40g"
+    },
+    {
+        "name": "Mixed Nuts",
+        "serving": "28g",
+        "calories": "172",
+        "fat": "15g",
+        "fiber": "3g",
+        "carbs": "6g",
+        "protein": "5g"
+    },
+    {
+        "name": "Turkey Sandwich",
+        "serving": "1 sandwich",
+        "calories": "290",
+        "fat": "6g",
+        "fiber": "3g",
+        "carbs": "34g",
+        "protein": "24g"
+    },
+    {
+        "name": "Cottage Cheese",
+        "serving": "1/2 cup",
+        "calories": "103",
+        "fat": "2.3g",
+        "fiber": "0g",
+        "carbs": "4g",
+        "protein": "14g"
+    },
+    {
+        "name": "Apple",
+        "serving": "1 medium (182g)",
+        "calories": "95",
+        "fat": "0.3g",
+        "fiber": "4.4g",
+        "carbs": "25g",
+        "protein": "0.5g"
+    },
+    {
+        "name": "Roasted Sweet Potatoes",
+        "serving": "1 cup",
+        "calories": "180",
+        "fat": "0.1g",
+        "fiber": "4g",
+        "carbs": "41g",
+        "protein": "2g"
+    },
+    {
+        "name": "Baked Tilapia",
+        "serving": "100g",
+        "calories": "129",
+        "fat": "2.7g",
+        "fiber": "0g",
+        "carbs": "0g",
+        "protein": "26g"
+    },
+    {
+        "name": "Sautéed Spinach",
+        "serving": "100g",
+        "calories": "41",
+        "fat": "0.4g",
+        "fiber": "2.1g",
+        "carbs": "3.4g",
+        "protein": "5.4g"
+    },
+    {
+        "name": "Chicken Biryani",
+        "serving": "1 cup",
+        "calories": "292",
+        "fat": "8g",
+        "fiber": "1.3g",
+        "carbs": "40g",
+        "protein": "15g"
+    },
+    {
+        "name": "Tofu Pad Thai",
+        "serving": "1 plate",
+        "calories": "357",
+        "fat": "10g",
+        "fiber": "4g",
+        "carbs": "58g",
+        "protein": "12g"
+    },
+    {
+        "name": "Kimchi Fried Rice",
+        "serving": "1 cup",
+        "calories": "370",
+        "fat": "12g",
+        "fiber": "2.5g",
+        "carbs": "56g",
+        "protein": "8g"
+    },
+    {
+        "name": "Lentil Dal",
+        "serving": "1 cup",
+        "calories": "230",
+        "fat": "6g",
+        "fiber": "15g",
+        "carbs": "28g",
+        "protein": "12g"
+    },
+    {
+        "name": "Beef Pho",
+        "serving": "1 bowl",
+        "calories": "400",
+        "fat": "6g",
+        "fiber": "3g",
+        "carbs": "52g",
+        "protein": "30g"
+    },
+    {
+        "name": "Falafel Wrap",
+        "serving": "1 wrap",
+        "calories": "330",
+        "fat": "10g",
+        "fiber": "7g",
+        "carbs": "45g",
+        "protein": "12g"
+    },
+    {
+        "name": "Sushi Roll (Salmon Avocado)",
+        "serving": "1 roll (6 pcs)",
+        "calories": "300",
+        "fat": "12g",
+        "fiber": "2g",
+        "carbs": "34g",
+        "protein": "13g"
+    },
+    {
+        "name": "Bibimbap",
+        "serving": "1 bowl",
+        "calories": "490",
+        "fat": "11g",
+        "fiber": "3.5g",
+        "carbs": "72g",
+        "protein": "17g"
+    },
+    {
+        "name": "Vegetable Moussaka",
+        "serving": "1 slice",
+        "calories": "250",
+        "fat": "14g",
+        "fiber": "3g",
+        "carbs": "22g",
+        "protein": "8g"
+    },
+    {
+        "name": "Shrimp Tacos",
+        "serving": "2 tacos",
+        "calories": "300",
+        "fat": "12g",
+        "fiber": "4g",
+        "carbs": "32g",
+        "protein": "18g"
+    },
+    {
+        "name": "Chicken Shawarma",
+        "serving": "1 wrap",
+        "calories": "400",
+        "fat": "15g",
+        "fiber": "3g",
+        "carbs": "40g",
+        "protein": "25g"
+    },
+    {
+        "name": "Hummus with Pita",
+        "serving": "1 plate",
+        "calories": "280",
+        "fat": "12g",
+        "fiber": "7g",
+        "carbs": "34g",
+        "protein": "9g"
+    },
+    {
+        "name": "Vegetable Spring Rolls",
+        "serving": "3 rolls",
+        "calories": "150",
+        "fat": "5g",
+        "fiber": "2g",
+        "carbs": "22g",
+        "protein": "3g"
+    },
+    {
+        "name": "Jollof Rice with Chicken",
+        "serving": "1 cup",
+        "calories": "410",
+        "fat": "10g",
+        "fiber": "2g",
+        "carbs": "55g",
+        "protein": "20g"
+    },
+    {
+        "name": "Ceviche",
+        "serving": "1 cup",
+        "calories": "150",
+        "fat": "2g",
+        "fiber": "3g",
+        "carbs": "12g",
+        "protein": "20g"
+    }
+
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Spaghetti Carbonara",
+        "ingredients": "Spaghetti, eggs, pancetta, Parmesan cheese, black pepper",
+        "protein": "25.0",
+        "fat": "20.0",
+        "fiber": "2.5",
+        "carbs": "50.0",
+        "calories": "400.0",
+        "instructions": "1. Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, following the package instructions. 2. While the spaghetti is cooking, dice the pancetta into small cubes. Heat a large skillet over medium heat and cook the pancetta until crispy, about 5-7 minutes. Remove from heat and set aside on a plate lined with paper towels. 3. In a medium bowl, whisk together eggs and grated Parmesan cheese until smooth. Add a pinch of black pepper. 4. Drain the spaghetti, reserving about 1/2 cup of the pasta water. Quickly transfer the hot spaghetti to the skillet with pancetta, tossing to combine. 5. Pour the egg and cheese mixture over the hot spaghetti, tossing rapidly to coat evenly. Add reserved pasta water a little at a time to create a creamy sauce, stirring constantly. 6. Taste and season with more freshly ground black pepper, if desired. Serve immediately with additional Parmesan cheese on top.",
+        "recipeImageUrl": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg"
+    },
+    {
+        "name": "Greek Salad",
+        "ingredients": "Tomatoes, cucumbers, onions, olives, feta cheese, olive oil",
+        "protein": "6.0",
+        "fat": "14.0",
+        "fiber": "3.0",
+        "carbs": "8.0",
+        "calories": "180.0",
+        "instructions": "1. Wash and dice the tomatoes and cucumbers into bite-sized pieces. Remove any seeds if desired. 2. Peel and thinly slice the onions into rings or half-moons. Pit the olives if necessary and slice them in half. 3. In a large bowl, combine the tomatoes, cucumbers, onions, and olives. Gently toss the vegetables to mix evenly. 4. Crumble the feta cheese over the salad, ensuring it is evenly distributed. 5. Drizzle olive oil generously over the salad. Add a pinch of salt and freshly ground black pepper to taste. 6. Gently toss the salad to combine. Serve immediately or chill in the refrigerator for 15-20 minutes before serving for a more refreshing taste.",
+        "recipeImageUrl": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
+    },
+    {
+        "name": "Tacos al Pastor",
+        "ingredients": "Pork, Pineapple, Onion, Cilantro, Corn Tortillas, Chili Sauce",
+        "protein": "25.0",
+        "fat": "10.0",
+        "fiber": "3.0",
+        "carbs": "20.0",
+        "calories": "250.0",
+        "instructions": "1. Marinate the pork with chili sauce and let it sit in the refrigerator for at least 2 hours or overnight. 2. Preheat a grill or skillet over medium-high heat. Grill the marinated pork until fully cooked and slightly charred. 3. While grilling, slice the pineapple into thin pieces and grill until caramelized. 4. Dice the cooked pork and grilled pineapple into small pieces. 5. Warm the corn tortillas on the grill or a skillet. 6. Assemble tacos by filling each tortilla with pork, pineapple, diced onion, and chopped cilantro. Serve immediately.",
+        "recipeImageUrl": "https://www.jocooks.com/wp-content/uploads/2022/04/tacos-al-pastor-feature-1.jpg"
+    },
+    {
+        "name": "Sushi Rolls",
+        "ingredients": "Sushi Rice, Nori, Salmon, Cucumber, Avocado, Soy Sauce",
+        "protein": "15.0",
+        "fat": "5.0",
+        "fiber": "2.0",
+        "carbs": "30.0",
+        "calories": "200.0",
+        "instructions": "1. Cook sushi rice according to the package instructions and let it cool slightly. 2. Place a sheet of nori on a bamboo sushi mat. 3. Spread a thin layer of sushi rice evenly over the nori, leaving about 1 inch of space at the top edge. 4. Place strips of salmon, cucumber, and avocado horizontally across the middle of the rice. 5. Use the bamboo mat to tightly roll the nori around the fillings, pressing gently to shape the roll. 6. Slice the roll into bite-sized pieces and serve with soy sauce.",
+        "recipeImageUrl": "https://int.japanesetaste.com/cdn/shop/articles/how-to-make-makizushi-sushi-rolls-japanese-taste.jpg?v=1707914944&width=600"
+    },
+        {
+            "name": "Moussaka",
+            "ingredients": "Eggplant, Ground Lamb, Tomato Sauce, Bechamel Sauce, Spices",
+            "protein": "22.0",
+            "fat": "14.0",
+            "fiber": "4.0",
+            "carbs": "25.0",
+            "calories": "320.0",
+            "instructions": "1. Slice the eggplant into 1/2 inch thick rounds and lightly salt them. Let them sit for 20 minutes to release moisture, then pat dry. 2. In a pan, cook ground lamb over medium heat until browned. Add tomato sauce and spices, stir to combine, and simmer for 10 minutes. 3. In a separate pan, heat the bechamel sauce until it thickens, stirring occasionally. 4. Preheat the oven to 375°F (190°C). 5. In a baking dish, layer the eggplant slices, followed by the lamb mixture, and repeat the layers. 6. Top with the bechamel sauce and bake for 45 minutes until golden and bubbly.",
+            "recipeImageUrl": "https://www.easycheesyvegetarian.com/wp-content/uploads/2019/11/vegetarian-moussaka-featured-1.jpg"
+        },
+        {
+            "name": "Pho",
+            "ingredients": "Rice Noodles, Beef, Broth, Bean Sprouts, Herbs, Lime",
+            "protein": "18.0",
+            "fat": "8.0",
+            "fiber": "2.0",
+            "carbs": "35.0",
+            "calories": "290.0",
+            "instructions": "1. In a large pot, simmer beef broth with spices (such as cinnamon, star anise, cloves, and ginger) for 30-45 minutes to develop the flavor. 2. Cook the rice noodles according to the package instructions, drain, and set aside. 3. Thinly slice the beef and prepare your garnishes: bean sprouts, fresh herbs (such as basil, cilantro), and lime wedges. 4. To assemble, place cooked noodles in bowls, top with raw beef slices, and pour the hot broth over them. 5. Garnish with bean sprouts, herbs, and lime before serving.",
+            "recipeImageUrl": "https://www.simplyrecipes.com/thmb/J7YRLoUK0In-BzbTzS1IhFdh_TE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__02__2017-02-07-ChickenPho-13-87ae826d1cb347c1a68d133edc7d9a1b.jpg"
+        },
+        {
+            "name": "Biryani",
+            "ingredients": "Basmati Rice, Chicken, Yogurt, Spices, Fried Onions",
+            "protein": "25.0",
+            "fat": "12.0",
+            "fiber": "3.0",
+            "carbs": "50.0",
+            "calories": "400.0",
+            "instructions": "1. Marinate the chicken in yogurt and spices (such as turmeric, cumin, coriander, and garam masala) for at least 30 minutes. 2. In a large pot, cook basmati rice until it's about 70% done, then drain and set aside. 3. In a separate pan, cook the chicken in oil until fully cooked and browned. 4. In a large pot, layer the partially cooked rice and chicken, adding fried onions between the layers. 5. Cover the pot and bake at 350°F (175°C) for 30 minutes, allowing the flavors to meld together.",
+            "recipeImageUrl": "https://www.thespruceeats.com/thmb/XDBL9gA6A6nYWUdsRZ3QwH084rk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-chicken-biryani-recipe-7367850-hero-A-ed211926bb0e4ca1be510695c15ce111.jpg"
+        },
+        {
+            "name": "Jollof Rice",
+            "ingredients": "Rice, Tomatoes, Onions, Bell Peppers, Chicken, Spices",
+            "protein": "20.0",
+            "fat": "8.0",
+            "fiber": "3.0",
+            "carbs": "45.0",
+            "calories": "300.0",
+            "instructions": "1. Cook the rice according to the package instructions, then set aside. 2. In a pan, sauté onions, bell peppers, and spices (such as thyme, curry powder, and bay leaves) until softened. 3. Add tomatoes and cook until the sauce thickens, then add the cooked chicken and mix. 4. Combine the tomato sauce mixture with the cooked rice and stir to combine. 5. Let the rice simmer on low heat for 10 minutes, allowing the flavors to meld before serving.",
+            "recipeImageUrl": "https://grandbaby-cakes.com/wp-content/uploads/2023/04/jollof-rice-recipe-23.jpg"
+        },
+        {
+            "name": "Pavlova",
+            "ingredients": "Egg Whites, Sugar, Cornstarch, Cream, Berries",
+            "protein": "6.0",
+            "fat": "10.0",
+            "fiber": "2.0",
+            "carbs": "40.0",
+            "calories": "220.0",
+            "instructions": "1. Preheat the oven to 250°F (120°C). Line a baking sheet with parchment paper. 2. Whip egg whites with sugar and cornstarch until stiff peaks form. 3. Spoon the meringue mixture onto the baking sheet and form a round shape with a slight indentation in the center. 4. Bake the meringue for 1.5-2 hours until it is crisp on the outside and slightly soft on the inside. 5. Allow the meringue to cool completely before topping with whipped cream and fresh berries.",
+            "recipeImageUrl": "https://www.thespruceeats.com/thmb/yA8Lu489xaBOh2Y-PtnszX-cPak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/australian-pavlova-recipe-256101-hero-01-f0bd5d2a3f0b4ec383fe8d16b8600bc9.jpg"
+        },
+        {
+            "name": "Vegetable Stir-Fry",
+            "ingredients": "Broccoli, Carrot, Bell Peppers, Soy Sauce, Garlic, Ginger, Sesame Oil",
+            "protein": "8.0",
+            "fat": "5.0",
+            "fiber": "4.0",
+            "carbs": "25.0",
+            "calories": "200.0",
+            "instructions": "1. Heat sesame oil in a wok or large pan. 2. Add minced garlic and ginger, sautéing until fragrant. 3. Toss in chopped vegetables and stir-fry over high heat until tender-crisp. 4. Drizzle with soy sauce and mix well. 5. Serve with rice or noodles.",
+            "recipeImageUrl": "https://images.themodernproper.com/billowy-turkey/production/posts/VegetableStirFry_9.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&dm=1703377301&s=3484d660c4b404c6d23b0c3ec7ac66eb"
+        },
+        {
+            "name": "Chicken Caesar Salad",
+            "ingredients": "Romaine Lettuce, Grilled Chicken, Caesar Dressing, Parmesan Cheese, Croutons",
+            "protein": "30.0",
+            "fat": "18.0",
+            "fiber": "2.0",
+            "carbs": "10.0",
+            "calories": "300.0",
+            "instructions": "1. Chop romaine lettuce and place in a large bowl. 2. Add sliced grilled chicken, croutons, and shaved Parmesan. 3. Drizzle with Caesar dressing and toss to coat. 4. Serve immediately.",
+            "recipeImageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2024-04-chicken-caesar-salad%2Fchicken-caesar-salad-653"
+        },
+        {
+            "name": "Vegetarian Chili",
+            "ingredients": "Kidney Beans, Black Beans, Tomatoes, Onion, Garlic, Chili Powder, Cumin, Bell Peppers",
+            "protein": "12.0",
+            "fat": "3.0",
+            "fiber": "8.0",
+            "carbs": "30.0",
+            "calories": "220.0",
+            "instructions": "1. Sauté onion and garlic in a pot until translucent. 2. Add chopped bell peppers and cook for 5 minutes. 3. Stir in beans, tomatoes, and spices (chili powder and cumin). 4. Simmer for 20 minutes, stirring occasionally. 5. Serve with cornbread or rice.",
+            "recipeImageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F9fff417ed363c61374bb3a2523683b9949b51fb9"
+        },
+        {
+            "name": "Beef Tacos",
+            "ingredients": "Ground Beef, Taco Shells, Lettuce, Tomato, Cheese, Sour Cream, Taco Seasoning",
+            "protein": "18.0",
+            "fat": "12.0",
+            "fiber": "3.0",
+            "carbs": "20.0",
+            "calories": "250.0",
+            "instructions": "1. Cook ground beef in a skillet with taco seasoning until fully browned. 2. Prepare taco shells as directed on the package. 3. Assemble tacos with beef, lettuce, tomato, shredded cheese, and sour cream. 4. Serve immediately.",
+            "recipeImageUrl": "https://midwestfoodieblog.com/wp-content/uploads/2024/08/ground-beef-tacos-feature-1.jpg"
+        },
+        {
+            "name": "Banana Pancakes",
+            "ingredients": "Bananas, Eggs, Flour, Baking Powder, Milk, Maple Syrup",
+            "protein": "6.0",
+            "fat": "4.0",
+            "fiber": "2.0",
+            "carbs": "35.0",
+            "calories": "200.0",
+            "instructions": "1. Mash bananas in a bowl and mix with eggs, flour, baking powder, and milk to form a batter. 2. Heat a non-stick pan and pour small amounts of batter to form pancakes. 3. Cook until bubbles form, then flip and cook until golden. 4. Serve with maple syrup and fresh fruit.",
+            "recipeImageUrl": "https://feelgoodfoodie.net/wp-content/uploads/2022/05/Banana-Pancakes-08.jpg"
+        }
+
+]
