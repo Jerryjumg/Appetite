@@ -10,6 +10,11 @@ Appétit is an intuitive iOS application designed to help users manage their nut
 - **Grocery Lists & Recipes**: Save your favorite recipes and create grocery lists based on meal plans.
 - **Sync & Data Persistence**: Uses Core Data for persistent storage to ensure all your data is saved and synchronized.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/78f0b999-09b8-4b00-afb9-73e7e1147ed7)
+![9061747787720_ pic](https://github.com/user-attachments/assets/9bd1ea5c-7185-4a76-8b63-bf07cac22109)
+![9071747787727_ pic](https://github.com/user-attachments/assets/520abe1b-c2f4-499a-b1ff-4b8fc2c5ded2)
+
 ## Technologies Used 🔧
 - **Swift**: iOS application development.
 - **SwiftUI**: Declarative user interface framework.
